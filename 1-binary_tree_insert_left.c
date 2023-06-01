@@ -5,7 +5,7 @@
  * @parent: A pointe
  * @value: The value to store in the new node.
  *
- * Return: If 
+ * Return: If
  *
  * Description: If parent
  */
