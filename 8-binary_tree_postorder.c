@@ -2,8 +2,8 @@
 
 /**
  * binary_tree_postorder - Traverses a binary tree
- * @tree: A pointer to the root node 
- * @func: A pointer to a function 
+ * @tree: A pointer to the root node
+ * @func: A pointer to a function
  */
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 {
