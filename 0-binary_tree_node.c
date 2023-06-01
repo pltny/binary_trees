@@ -5,7 +5,7 @@
  * @parent: A pointer to the parent o
  * @value: The value to put in the new node.
  *
- * Return: If an error 
+ * Return: If an error
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
