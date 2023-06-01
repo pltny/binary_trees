@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_rotate_left - Left-rotates 
+ * binary_tree_rotate_left - Left-rotates
  * @tree: A pointer to the root
  *
  * Return: A pointer

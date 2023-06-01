@@ -44,7 +44,7 @@ void free_queue(levelorder_queue_t *head)
 }
 
 /**
- * pint_push - Runs a function on a given binary 
+ * pint_push - Runs a function on a given binary
  * @node: The binary tree node to print and push.
  * @head: A double pointer to the head of the queue.
  * @tail: A double pointer to the tail of the queue.
