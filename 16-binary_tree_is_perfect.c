@@ -20,7 +20,7 @@ unsigned char is_leaf(const binary_tree_t *node)
 
 /**
  * depth - Returns the depth
- * @tree: A pointer 
+ * @tree: A pointer
  *
  * Return: The depth of node.
  */
@@ -33,7 +33,7 @@ size_t depth(const binary_tree_t *tree)
  * get_leaf - Returns a leaf of a binary tree.
  * @tree: A pointer to the root
  *
- * Return: A pointer 
+ * Return: A pointer
  */
 const binary_tree_t *get_leaf(const binary_tree_t *tree)
 {

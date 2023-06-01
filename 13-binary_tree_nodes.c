@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_nodes - Counts nodes
- * @tree: A pointer to the root 
+ * @tree: A pointer to the root
  *
  * Return: If tree is NULL returns 0
  */
